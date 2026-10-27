@@ -264,7 +264,7 @@ timeline
 
 <br/><br/>
 
-<!-- 🐍 snake animation (needs the snake.yml workflow) -->
+<!-- 🐍 snake animation (needs the snake.yml workflow — see setup notes) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anjalitiwarics27-coder/anjalitiwarics27-coder/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anjalitiwarics27-coder/anjalitiwarics27-coder/output/github-snake.svg"/>
@@ -272,12 +272,6 @@ timeline
 </picture>
 
 <br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjalitiwarics27-coder&theme=react-dark&hide_border=true&bg_color=0d1117&color=e879f9&line=8b5cf6&point=ec4899&area=true&area_color=8b5cf6" width="96%" alt="activity graph"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=anjalitiwarics27-coder&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies"/>
 
 </div>
 
