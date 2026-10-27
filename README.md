@@ -86,47 +86,39 @@
 <a name="experience"></a>
 ## 💼 &nbsp;Experience
 
-```mermaid
-timeline
-    title My Internship Journey (2026)
-    Jan – Mar : Full Stack Intern : EduSkills x AICTE : Grade O (Outstanding)
-    Mar – Apr : Research Intern (AI/ML) : Wildlife Institute of India : CNN for elephant ID
-    Jun – Aug : Software Dev Intern (Python) : DigiSamaksh Pvt. Ltd. : Job-portal recommendation engine
-```
+<div align="center">
+  <img src="./assets/experience-timeline.svg" width="100%" alt="Animated internship timeline 2026"/>
+</div>
 
-<table>
-<tr>
-<td width="6%" align="center">🐍</td>
-<td>
+<br/>
 
-**Software Development Intern (Python)** · *DigiSamaksh Private Limited* · `Jun 1 – Aug 10, 2026`
-- Built a **job-portal recommendation engine** in Python using similarity-matching to rank candidates against listings by skills & experience
-- Cleaned and analysed candidate/job data with **NumPy & Pandas**, improving match relevance
-- Owned features end-to-end in an **Agile** workflow — dev, debugging, testing, Git/GitHub and code review
+<details open>
+<summary><b>🐍 Software Development Intern (Python)</b> · DigiSamaksh Private Limited · <code>Jun 1 – Aug 10, 2026</code></summary>
+<br/>
 
-</td>
-</tr>
-<tr>
-<td align="center">🐘</td>
-<td>
+- 🎯 Designed and built a **job-portal recommendation engine** in Python using similarity-matching to rank candidates against listings by skills & experience
+- 🧹 Cleaned, preprocessed and analysed candidate/job data with **NumPy & Pandas**, improving match relevance
+- 🔁 Owned features end-to-end in an **Agile** workflow: development, debugging, testing, **Git/GitHub** and code review before delivery
 
-**Research Intern (AI/ML)** · *Wildlife Institute of India* · `Mar – Apr 2026`
-- Built, trained & tested a **CNN** in Python to identify individual elephants from photographs, enabling counting and photo-based tracking
-- Preprocessed & augmented image datasets with **Python, NumPy & OpenCV** to improve accuracy and generalisation
+</details>
 
-</td>
-</tr>
-<tr>
-<td align="center">🌐</td>
-<td>
+<details open>
+<summary><b>🐘 Research Intern (AI/ML)</b> · Wildlife Institute of India · <code>Mar – Apr 2026</code></summary>
+<br/>
 
-**Full Stack Developer Intern** · *EduSkills Virtual Internship (AICTE)* · `Jan – Mar 2026` · 🏆 **Grade O (Outstanding)**
-- Completed a 10-week Full Stack internship (National Internship Portal, with IILM University)
-- Built front-end features using **HTML, CSS, JavaScript & REST API integration**, following SDLC practices
+- 🧠 Built, trained and tested a **Convolutional Neural Network (CNN)** in Python to identify individual elephants from photographs, enabling counting and photo-based tracking
+- 🖼️ Preprocessed and augmented image datasets using **Python, NumPy & OpenCV** to improve accuracy and generalisation
 
-</td>
-</tr>
-</table>
+</details>
+
+<details open>
+<summary><b>🌐 Full Stack Developer Intern</b> · EduSkills Virtual Internship (AICTE) · <code>Jan – Mar 2026</code> · 🏆 <b>Grade O (Outstanding)</b></summary>
+<br/>
+
+- ✅ Completed a **10-week Full Stack internship** (National Internship Portal, with IILM University)
+- 🎨 Built front-end features using **HTML, CSS, JavaScript & REST API integration**, following SDLC practices
+
+</details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:a21caf,100:4c1d95&height=3&section=header" width="100%" alt=""/>
 
