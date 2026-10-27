@@ -5,10 +5,10 @@
 <div align="center">
 
 <!-- ═══════════════ HERO ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0d1117,30:3b0764,65:a21caf,100:ec4899&section=header&text=Anjali%20Tiwari&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%2FML%20Enthusiast%20%C2%B7%20CSE%20%2727&descSize=19&descAlignY=60&animation=fadeIn" width="100%" alt="Anjali Tiwari banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,30:3b0764,65:a21caf,100:ec4899&section=header&text=Anjali%20Tiwari&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=20&descAlignY=58&animation=twinkling" width="100%" alt="Anjali Tiwari banner"/>
 
 <a href="https://github.com/anjalitiwarics27-coder">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=E879F9&center=true&vCenter=true&width=820&height=55&lines=Hi%2C+I'm+Anjali+%F0%9F%91%8B+Welcome+to+my+profile!;Software+Dev+Intern+%40+DigiSamaksh+%F0%9F%92%BC;Research+Intern+%40+Wildlife+Institute+of+India+%F0%9F%90%98;Building+Full-Stack+%26+AI%2FML+projects+%F0%9F%A4%96;CGPA+9.3+%F0%9F%8E%93+%C2%B7+Grade+O+in+AICTE+Internship+%F0%9F%8F%86;Open+to+internships+%26+collaborations+%F0%9F%A4%9D" alt="typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=E879F9&center=true&vCenter=true&width=500&height=50&lines=Hi%2C+I'm+Anjali+%F0%9F%91%8B;Full-Stack+%26+AI%2FML+Developer+%F0%9F%A4%96;Intern+%40+DigiSamaksh+%F0%9F%92%BC;Research+Intern+%40+WII+%F0%9F%90%98;CGPA+9.3+%C2%B7+Grade+O+%F0%9F%8F%86;Open+to+internships+%F0%9F%A4%9D" alt="typing animation"/>
 </a>
 
 <br/>
@@ -264,7 +264,7 @@ timeline
 
 <br/><br/>
 
-<!-- 🐍 snake animation (needs the snake.yml workflow — see setup notes) -->
+<!-- 🐍 snake animation (needs the snake.yml workflow) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anjalitiwarics27-coder/anjalitiwarics27-coder/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anjalitiwarics27-coder/anjalitiwarics27-coder/output/github-snake.svg"/>
