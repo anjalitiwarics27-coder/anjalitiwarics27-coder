@@ -1,27 +1,34 @@
 <!-- ╔════════════════════════════════════════════════════╗
-     ║   ANJALI TIWARI  ·  GITHUB PROFILE README (PRO)    ║
+     ║   ANJALI TIWARI  ·  GITHUB PROFILE README (v2)     ║
      ╚════════════════════════════════════════════════════╝ -->
 
-<!-- ═══════════════ HERO ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0d1117,30:3b0764,65:a21caf,100:ec4899&section=header&text=Anjali%20Tiwari&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20%C2%B7%20AI%2FML%20Enthusiast%20%C2%B7%20Full-Stack%20Developer&descSize=19&descAlignY=60&animation=fadeIn" width="100%" alt="Anjali Tiwari banner"/>
+<!-- ═══════════════ HERO ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0d1117,30:3b0764,65:a21caf,100:ec4899&section=header&text=Anjali%20Tiwari&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%2FML%20Enthusiast%20%C2%B7%20CSE%20%2727&descSize=19&descAlignY=60&animation=fadeIn" width="100%" alt="Anjali Tiwari banner"/>
 
 <a href="https://github.com/anjalitiwarics27-coder">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=E879F9&center=true&vCenter=true&width=760&height=55&lines=Hi%2C+I'm+Anjali+%F0%9F%91%8B+Welcome+to+my+profile!;Turning+ideas+into+clean%2C+working+code+%E2%9C%A8;Building+AI%2FML+%26+Full-Stack+projects+%F0%9F%A4%96;Leveling+up+with+DSA+on+LeetCode+%26+GFG+%F0%9F%A7%A0;Open+to+internships+%26+collaborations+%F0%9F%A4%9D" alt="typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=E879F9&center=true&vCenter=true&width=820&height=55&lines=Hi%2C+I'm+Anjali+%F0%9F%91%8B+Welcome+to+my+profile!;Software+Dev+Intern+%40+DigiSamaksh+%F0%9F%92%BC;Research+Intern+%40+Wildlife+Institute+of+India+%F0%9F%90%98;Building+Full-Stack+%26+AI%2FML+projects+%F0%9F%A4%96;CGPA+9.3+%F0%9F%8E%93+%C2%B7+Grade+O+in+AICTE+Internship+%F0%9F%8F%86;Open+to+internships+%26+collaborations+%F0%9F%A4%9D" alt="typing animation"/>
 </a>
+
+<br/>
+
+<!-- animated character -->
+<img src="./assets/hero-character.svg" width="760" alt="Animated Anjali coding with chai"/>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=anjalitiwarics27-coder&label=PROFILE%20VIEWS&color=8b5cf6&style=for-the-badge&labelColor=1e1b4b" alt="views"/>
 <img src="https://img.shields.io/github/followers/anjalitiwarics27-coder?style=for-the-badge&logo=github&color=ec4899&labelColor=1e1b4b" alt="followers"/>
 <img src="https://img.shields.io/github/stars/anjalitiwarics27-coder?style=for-the-badge&logo=starship&color=a855f7&labelColor=1e1b4b" alt="stars"/>
+<img src="https://img.shields.io/badge/CGPA-9.3-d946ef?style=for-the-badge&labelColor=1e1b4b&logo=googlescholar&logoColor=white" alt="cgpa"/>
+<img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-22c55e?style=for-the-badge&labelColor=1e1b4b" alt="open to work"/>
 
 <br/><br/>
 
 <a href="#about"><img src="https://img.shields.io/badge/ABOUT-1e1b4b?style=flat-square&labelColor=1e1b4b&color=8b5cf6" alt="About"/></a>
+<a href="#experience"><img src="https://img.shields.io/badge/EXPERIENCE-1e1b4b?style=flat-square&labelColor=1e1b4b&color=9333ea" alt="Experience"/></a>
 <a href="#skills"><img src="https://img.shields.io/badge/SKILLS-1e1b4b?style=flat-square&labelColor=1e1b4b&color=a855f7" alt="Skills"/></a>
-<a href="#journey"><img src="https://img.shields.io/badge/JOURNEY-1e1b4b?style=flat-square&labelColor=1e1b4b&color=c026d3" alt="Journey"/></a>
 <a href="#projects"><img src="https://img.shields.io/badge/PROJECTS-1e1b4b?style=flat-square&labelColor=1e1b4b&color=d946ef" alt="Projects"/></a>
 <a href="#stats"><img src="https://img.shields.io/badge/STATS-1e1b4b?style=flat-square&labelColor=1e1b4b&color=e879f9" alt="Stats"/></a>
 <a href="#contact"><img src="https://img.shields.io/badge/CONTACT-1e1b4b?style=flat-square&labelColor=1e1b4b&color=ec4899" alt="Contact"/></a>
@@ -36,24 +43,26 @@
 
 <table>
 <tr>
-<td width="52%" valign="top">
+<td width="55%" valign="top">
 
 ```yaml
 👤 Name        : Anjali Tiwari
-🎓 Education   : B.Tech CSE @ IILM
-🤖 Focus       : AI / ML  +  Full-Stack Dev
+🎓 Education   : B.Tech CSE @ IILM University (2023–27)
+⭐ CGPA        : 9.3
+💼 Role        : Full-Stack / Web Developer
+🤖 Also into   : AI / ML (CNN, Scikit-learn, OpenCV)
 🧠 Practice    : DSA — LeetCode & GeeksforGeeks
-💻 Languages   : C · C++ · Python · HTML
-🎯 Aiming for  : Internship & real-world projects
+🗣️ Languages   : English · Hindi · Marathi
+🎯 Aiming for  : Full-time / internship roles
 ```
 
 </td>
-<td width="48%" valign="top">
+<td width="45%" valign="top">
 
-🔭 **Working on** &nbsp;→&nbsp; AI/ML projects & web apps  
-🌱 **Learning** &nbsp;→&nbsp; Machine Learning & DSA  
+🔭 **Working on** &nbsp;→&nbsp; AI-powered full-stack apps  
+🌱 **Learning** &nbsp;→&nbsp; GenAI, LLMs & system design  
 🤝 **Collaborate on** &nbsp;→&nbsp; AI & web projects  
-💬 **Ask me about** &nbsp;→&nbsp; C, C++ & Python basics  
+💬 **Ask me about** &nbsp;→&nbsp; React, Flask, Python, ML  
 ⚡ **Motto** &nbsp;→&nbsp; *Code. Eat. Sleep. Repeat.*
 
 </td>
@@ -65,11 +74,59 @@
 <br/>
 
 - 🎧 I code best with music on
-- 📚 I document my learning journey in public repos
+- ☕ Fuelled by chai
 - 🧩 I enjoy breaking big problems into small, solvable pieces
 - 🚀 Always up for a new project or hackathon idea
 
 </details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:a21caf,100:4c1d95&height=3&section=header" width="100%" alt=""/>
+
+<!-- ═══════════════ EXPERIENCE ═══════════════ -->
+<a name="experience"></a>
+## 💼 &nbsp;Experience
+
+```mermaid
+timeline
+    title My Internship Journey (2026)
+    Jan – Mar : Full Stack Intern : EduSkills x AICTE : Grade O (Outstanding)
+    Mar – Apr : Research Intern (AI/ML) : Wildlife Institute of India : CNN for elephant ID
+    Jun – Aug : Software Dev Intern (Python) : DigiSamaksh Pvt. Ltd. : Job-portal recommendation engine
+```
+
+<table>
+<tr>
+<td width="6%" align="center">🐍</td>
+<td>
+
+**Software Development Intern (Python)** · *DigiSamaksh Private Limited* · `Jun 1 – Aug 10, 2026`
+- Built a **job-portal recommendation engine** in Python using similarity-matching to rank candidates against listings by skills & experience
+- Cleaned and analysed candidate/job data with **NumPy & Pandas**, improving match relevance
+- Owned features end-to-end in an **Agile** workflow — dev, debugging, testing, Git/GitHub and code review
+
+</td>
+</tr>
+<tr>
+<td align="center">🐘</td>
+<td>
+
+**Research Intern (AI/ML)** · *Wildlife Institute of India* · `Mar – Apr 2026`
+- Built, trained & tested a **CNN** in Python to identify individual elephants from photographs, enabling counting and photo-based tracking
+- Preprocessed & augmented image datasets with **Python, NumPy & OpenCV** to improve accuracy and generalisation
+
+</td>
+</tr>
+<tr>
+<td align="center">🌐</td>
+<td>
+
+**Full Stack Developer Intern** · *EduSkills Virtual Internship (AICTE)* · `Jan – Mar 2026` · 🏆 **Grade O (Outstanding)**
+- Completed a 10-week Full Stack internship (National Internship Portal, with IILM University)
+- Built front-end features using **HTML, CSS, JavaScript & REST API integration**, following SDLC practices
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:a21caf,100:4c1d95&height=3&section=header" width="100%" alt=""/>
 
@@ -81,23 +138,38 @@
 
 <table>
 <tr>
-<td align="center" width="180"><b>⚙️ Languages</b></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" alt="languages"/></td>
+<td align="center" width="190"><b>⚙️ Languages</b></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,html,css&theme=dark" alt="languages"/></td>
 </tr>
 <tr>
-<td align="center"><b>🎨 Web Development</b></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="web"/></td>
+<td align="center"><b>🎨 Front-End</b></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap&theme=dark" alt="frontend"/></td>
 </tr>
 <tr>
-<td align="center"><b>🤖 AI / ML</b></td>
+<td align="center"><b>🧱 Back-End</b></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" alt="backend"/> <img src="https://img.shields.io/badge/REST%20APIs-a855f7?style=for-the-badge&labelColor=1e1b4b" alt="REST"/> <img src="https://img.shields.io/badge/JWT%20Auth-ec4899?style=for-the-badge&labelColor=1e1b4b" alt="JWT"/></td>
+</tr>
+<tr>
+<td align="center"><b>🗄️ Databases</b></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="db"/></td>
+</tr>
+<tr>
+<td align="center"><b>🤖 Data & AI/ML</b></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,opencv&theme=dark" alt="ml"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></td>
+</tr>
+<tr>
+<td align="center"><b>🧪 Testing & Tools</b></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=jest,postman,git,github,vscode,jira,vercel,aws&theme=dark" alt="tools"/></td>
+</tr>
+<tr>
+<td align="center"><b>📚 Core CS</b></td>
 <td align="left">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Learning-8b5cf6?style=for-the-badge&labelColor=1e1b4b" alt="ML"/>
+  <img src="https://img.shields.io/badge/DSA-8b5cf6?style=flat-square&labelColor=1e1b4b"/>
+  <img src="https://img.shields.io/badge/OOP-a855f7?style=flat-square&labelColor=1e1b4b"/>
+  <img src="https://img.shields.io/badge/OS-c026d3?style=flat-square&labelColor=1e1b4b"/>
+  <img src="https://img.shields.io/badge/DBMS-d946ef?style=flat-square&labelColor=1e1b4b"/>
+  <img src="https://img.shields.io/badge/Computer%20Networks-ec4899?style=flat-square&labelColor=1e1b4b"/>
 </td>
-</tr>
-<tr>
-<td align="center"><b>🧰 Tools</b></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="tools"/></td>
 </tr>
 </table>
 
@@ -105,29 +177,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:a21caf,100:4c1d95&height=3&section=header" width="100%" alt=""/>
 
-<!-- ═══════════════ JOURNEY ═══════════════ -->
-<a name="journey"></a>
-## 🗺️ &nbsp;My Learning Journey
-
-```mermaid
-flowchart LR
-    A["C Programming<br/>c_programming"] --> B["C++ & OOP<br/>cpp_basics_advance"]
-    B --> C["Python Projects<br/>mini_projects"]
-    C --> D["AI / ML<br/>aiml"]
-    D --> E["Full-Stack + AI<br/>Ai_based_job_portal"]
-    E --> F(["Next: Portfolio &<br/>Internship"])
-
-    classDef done fill:#4c1d95,stroke:#a855f7,color:#fff,stroke-width:2px;
-    classDef next fill:#be185d,stroke:#ec4899,color:#fff,stroke-width:2px,stroke-dasharray: 5 3;
-    class A,B,C,D,E done;
-    class F next;
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:a21caf,100:4c1d95&height=3&section=header" width="100%" alt=""/>
-
 <!-- ═══════════════ PROJECTS ═══════════════ -->
 <a name="projects"></a>
 ## 🚀 &nbsp;Featured Projects
+
+| 🚀 Project | 🧰 Stack | 💡 What it does |
+|---|---|---|
+| **AI-Based Student Performance Prediction & Personalised Learning** | `Python` `Scikit-learn` `Streamlit` `Pandas` | Predicts academic performance and recommends learning resources from strengths, weaknesses & study behaviour |
+| **AI-Based Doctor–Patient Appointment System** | `Python` `Flask` `MySQL` `ML` `REST` | Symptom-based doctor recommendation + full-stack appointment scheduling |
+| **Library Management System (AI-Enhanced)** | `C` `File Handling` `Vercel` | File-based library system with borrowing-history recommendations, live on Vercel |
+| **Job Portal Recommendation Engine** | `Python` `NumPy` `Pandas` | Similarity-matching engine ranking candidates against listings |
 
 <div align="center">
 
@@ -160,6 +219,35 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:a21caf,100:4c1d95&height=3&section=header" width="100%" alt=""/>
 
+<!-- ═══════════════ ACHIEVEMENTS & CERTS ═══════════════ -->
+## 🏆 &nbsp;Achievements & Certifications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**⭐ Most Proud Of**
+- 🎓 **CGPA 9.3** — B.Tech CSE, IILM University
+- 🥇 **Grade O (Outstanding)** — EduSkills (AICTE) Full Stack internship
+- 🐘 **CNN for Elephant Identification** — Wildlife Institute of India
+- 💯 **100% Score** — Communication Skills, P2E (YuWaah/UNICEF)
+
+</td>
+<td width="50%" valign="top">
+
+**📜 Certifications**
+- 🤖 Generative AI Fundamentals & Applications — *Nasscom FutureSkills Prime* · Jun 2026
+- 🌐 Web Development — *EduSkills* · Mar 2026
+- 🗣️ Communication Skills — *P2E, YuWaah/UNICEF* · Jun 2026
+- ☁️ AWS: Job Roles in the Cloud — *AWS Training* · Feb 2025
+- 🗄️ MySQL Basics — *Great Learning* · Nov 2024
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:a21caf,100:4c1d95&height=3&section=header" width="100%" alt=""/>
+
 <!-- ═══════════════ STATS ═══════════════ -->
 <a name="stats"></a>
 ## 📊 &nbsp;GitHub Analytics
@@ -173,6 +261,15 @@ flowchart LR
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=anjalitiwarics27-coder&theme=radical&hide_border=true&background=0d1117&ring=ec4899&fire=f472b6&currStreakLabel=e879f9" alt="streak"/>
+
+<br/><br/>
+
+<!-- 🐍 snake animation (needs the snake.yml workflow — see setup notes) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anjalitiwarics27-coder/anjalitiwarics27-coder/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anjalitiwarics27-coder/anjalitiwarics27-coder/output/github-snake.svg"/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/anjalitiwarics27-coder/anjalitiwarics27-coder/output/github-snake-dark.svg" width="96%"/>
+</picture>
 
 <br/><br/>
 
@@ -208,10 +305,11 @@ flowchart LR
 | Status | Goal |
 |:---:|---|
 | ✅ | Create a professional GitHub profile |
-| 🔄 | Build strong AI/ML projects |
+| ✅ | Complete 3 internships (Full Stack, AI/ML Research, Python) |
+| 🔄 | Build strong AI-powered full-stack projects |
 | 🔄 | Solve 200+ DSA problems |
 | ⏳ | Build & deploy my portfolio website |
-| ⏳ | Land an internship |
+| ⏳ | Land a full-time Full-Stack / SDE role |
 | ⏳ | Make my first open-source contribution |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:a21caf,100:4c1d95&height=3&section=header" width="100%" alt=""/>
@@ -222,7 +320,7 @@ flowchart LR
 
 <div align="center">
 
-**Have a project idea, an internship opportunity, or just want to say hi? I'd love to hear from you!**
+**Have a project idea, an opportunity, or just want to say hi? I'd love to hear from you!**
 
 <br/>
 
