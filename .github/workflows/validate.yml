@@ -1,0 +1,72 @@
+name: Validate Profile Repo
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install pyyaml
+
+      - name: Check required profile files exist
+        run: |
+          missing=0
+          for f in \
+            README.md \
+            .github/workflows/snake.yml \
+            .github/workflows/update-readme.yml \
+            scripts/update_readme.py \
+            assets/banner.svg \
+            assets/divider.svg \
+            assets/skills.svg \
+            assets/footer.svg \
+            assets/hero-character.svg \
+            assets/experience-timeline.svg; do
+            if [ ! -f "$f" ]; then
+              echo "::error::Missing required file: $f"
+              missing=1
+            fi
+          done
+          if [ "$missing" -ne 0 ]; then exit 1; fi
+          echo "All required files are present."
+
+      - name: Validate workflow YAML syntax
+        run: |
+          python - <<'PY'
+          import glob, sys, yaml
+          failed = False
+          for path in sorted(glob.glob(".github/workflows/*.yml")):
+              try:
+                  with open(path, encoding="utf-8") as fh:
+                      yaml.safe_load(fh)
+                  print(f"OK   {path}")
+              except Exception as exc:
+                  print(f"FAIL {path}: {exc}")
+                  failed = True
+          sys.exit(1 if failed else 0)
+          PY
+
+      - name: Validate Python script syntax
+        run: |
+          python -m py_compile scripts/update_readme.py
+          echo "scripts/update_readme.py syntax OK"
