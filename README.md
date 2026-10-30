@@ -133,6 +133,14 @@ Aiming for : Full-time / Internship roles
 ## 🚀 Featured Projects <sub>(auto-updated)</sub>
 
 <!--START_SECTION:projects-->
+| 🚀 Project | 📝 Description | 💻 Language | ⭐ Stars | 🕒 Updated |
+|:---|:---|:---:|:---:|:---:|
+| [**calculator**](https://github.com/anjalitiwarics27-coder/calculator) | — | CSS | 3 | 12 Sep 2026 |
+| [**basic-code-cpp**](https://github.com/anjalitiwarics27-coder/basic-code-cpp) | My C++ learning journey with practice programs, OOP concepts, data structures, and file handling examples. | C++ | 3 | 28 Jul 2026 |
+| [**my_practice_code**](https://github.com/anjalitiwarics27-coder/my_practice_code) | — | C | 2 | 12 Sep 2026 |
+| [**practice_html_css**](https://github.com/anjalitiwarics27-coder/practice_html_css) | — | HTML | 2 | 12 Sep 2026 |
+| [**calculator_using_python**](https://github.com/anjalitiwarics27-coder/calculator_using_python) | — | Python | 2 | 10 Sep 2026 |
+| [**doctor_patient**](https://github.com/anjalitiwarics27-coder/doctor_patient) | — | HTML | 2 | 10 Apr 2026 |
 <!--END_SECTION:projects-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -149,6 +157,12 @@ Aiming for : Full-time / Internship roles
 ## ⚡ Recent Activity <sub>(auto-updated)</sub>
 
 <!--START_SECTION:activity-->
+- 🔨 Pushed to [anjalitiwarics27-coder/anjalitiwarics27-coder](https://github.com/anjalitiwarics27-coder/anjalitiwarics27-coder) · `27 Oct 2026`
+- 🔨 Pushed to [anjalitiwarics27-coder/anjalitiwarics27-coder](https://github.com/anjalitiwarics27-coder/anjalitiwarics27-coder) · `27 Oct 2026`
+- 🔨 Pushed to [anjalitiwarics27-coder/anjalitiwarics27-coder](https://github.com/anjalitiwarics27-coder/anjalitiwarics27-coder) · `27 Oct 2026`
+- 🔨 Pushed to [anjalitiwarics27-coder/anjalitiwarics27-coder](https://github.com/anjalitiwarics27-coder/anjalitiwarics27-coder) · `27 Oct 2026`
+- 🔨 Pushed to [anjalitiwarics27-coder/anjalitiwarics27-coder](https://github.com/anjalitiwarics27-coder/anjalitiwarics27-coder) · `27 Oct 2026`
+- 🔨 Pushed to [anjalitiwarics27-coder/anjalitiwarics27-coder](https://github.com/anjalitiwarics27-coder/anjalitiwarics27-coder) · `27 Oct 2026`
 <!--END_SECTION:activity-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -158,6 +172,7 @@ Aiming for : Full-time / Internship roles
 <div align="center">
 
 <!--START_SECTION:summary-->
+📦 **26** public repos · ⭐ **26** stars earned · 👥 **9** followers · 🤝 **2** following
 <!--END_SECTION:summary-->
 
 <br/><br/>
@@ -210,6 +225,7 @@ Aiming for : Full-time / Internship roles
 <br/>
 
 <!--START_SECTION:updated-->
+<sub>🤖 Auto-updated on 30 Oct 2026, 04:01 PM IST</sub>
 <!--END_SECTION:updated-->
 
 </div>
