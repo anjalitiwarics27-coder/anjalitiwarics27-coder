@@ -1,327 +1,215 @@
-<!-- ╔════════════════════════════════════════════════════╗
-     ║   ANJALI TIWARI  ·  GITHUB PROFILE README (v2)     ║
-     ╚════════════════════════════════════════════════════╝ -->
+<!--
+FINAL README (rename this file to README.md in your profile repo).
+Required files in the repo:
+  assets/banner.svg, assets/divider.svg, assets/skills.svg, assets/footer.svg
+  assets/hero-character.svg, assets/experience-timeline.svg   (already there)
+  .github/workflows/snake.yml, .github/workflows/update-readme.yml
+  scripts/update_readme.py
+Do not delete the <!--START_SECTION--> / <!--END_SECTION--> markers.
+-->
 
 <div align="center">
 
-<!-- ═══════════════ HERO ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,30:3b0764,65:a21caf,100:ec4899&section=header&text=Anjali%20Tiwari&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=20&descAlignY=58&animation=twinkling" width="100%" alt="Anjali Tiwari banner"/>
+<img src="assets/banner.svg" alt="Anjali Tiwari - Full-Stack Developer | AI/ML Enthusiast" width="100%"/>
 
-<a href="https://github.com/anjalitiwarics27-coder">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=E879F9&center=true&vCenter=true&width=500&height=50&lines=Hi%2C+I'm+Anjali+%F0%9F%91%8B;Full-Stack+%26+AI%2FML+Developer+%F0%9F%A4%96;Intern+%40+DigiSamaksh+%F0%9F%92%BC;Research+Intern+%40+WII+%F0%9F%90%98;CGPA+9.3+%C2%B7+Grade+O+%F0%9F%8F%86;Open+to+internships+%F0%9F%A4%9D" alt="typing animation"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Anjali+%F0%9F%91%8B;CSE+Student+%7C+Full-Stack+%7C+AI%2FML;Building+AI-powered+full-stack+apps;Open+to+Internships+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<!-- animated character -->
-<img src="./assets/hero-character.svg" width="760" alt="Animated Anjali coding with chai"/>
+<img src="assets/hero-character.svg" alt="Coding illustration" width="75%"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=anjalitiwarics27-coder&label=PROFILE%20VIEWS&color=8b5cf6&style=for-the-badge&labelColor=1e1b4b" alt="views"/>
-<img src="https://img.shields.io/github/followers/anjalitiwarics27-coder?style=for-the-badge&logo=github&color=ec4899&labelColor=1e1b4b" alt="followers"/>
-<img src="https://img.shields.io/github/stars/anjalitiwarics27-coder?style=for-the-badge&logo=starship&color=a855f7&labelColor=1e1b4b" alt="stars"/>
-<img src="https://img.shields.io/badge/CGPA-9.3-d946ef?style=for-the-badge&labelColor=1e1b4b&logo=googlescholar&logoColor=white" alt="cgpa"/>
-<img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-22c55e?style=for-the-badge&labelColor=1e1b4b" alt="open to work"/>
+![Profile Views](https://komarev.com/ghpvc/?username=anjalitiwarics27-coder&label=PROFILE%20VIEWS&color=6a11cb&style=flat-square)
+![Followers](https://img.shields.io/github/followers/anjalitiwarics27-coder?label=FOLLOWERS&style=flat-square&color=2575fc&logo=github)
+![Stars](https://img.shields.io/github/stars/anjalitiwarics27-coder?label=STARS&style=flat-square&color=f59e0b&logo=github)
+![CGPA](https://img.shields.io/badge/CGPA-8.3-22c55e?style=flat-square)
+![Open To](https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-ec4899?style=flat-square)
 
-<br/><br/>
+<br/>
 
-<a href="#about"><img src="https://img.shields.io/badge/ABOUT-1e1b4b?style=flat-square&labelColor=1e1b4b&color=8b5cf6" alt="About"/></a>
-<a href="#experience"><img src="https://img.shields.io/badge/EXPERIENCE-1e1b4b?style=flat-square&labelColor=1e1b4b&color=9333ea" alt="Experience"/></a>
-<a href="#skills"><img src="https://img.shields.io/badge/SKILLS-1e1b4b?style=flat-square&labelColor=1e1b4b&color=a855f7" alt="Skills"/></a>
-<a href="#projects"><img src="https://img.shields.io/badge/PROJECTS-1e1b4b?style=flat-square&labelColor=1e1b4b&color=d946ef" alt="Projects"/></a>
-<a href="#stats"><img src="https://img.shields.io/badge/STATS-1e1b4b?style=flat-square&labelColor=1e1b4b&color=e879f9" alt="Stats"/></a>
-<a href="#contact"><img src="https://img.shields.io/badge/CONTACT-1e1b4b?style=flat-square&labelColor=1e1b4b&color=ec4899" alt="Contact"/></a>
+[![About](https://img.shields.io/badge/ABOUT-4c1d95?style=for-the-badge)](#-about-me)
+[![Experience](https://img.shields.io/badge/EXPERIENCE-6d28d9?style=for-the-badge)](#-experience)
+[![Skills](https://img.shields.io/badge/SKILLS-2563eb?style=for-the-badge)](#-tech-stack)
+[![Projects](https://img.shields.io/badge/PROJECTS-db2777?style=for-the-badge)](#-featured-projects-auto-updated)
+[![Certifications](https://img.shields.io/badge/CERTIFICATIONS-d97706?style=for-the-badge)](#-certifications)
+[![Stats](https://img.shields.io/badge/STATS-ea580c?style=for-the-badge)](#-github-stats)
+[![Contact](https://img.shields.io/badge/CONTACT-ec4899?style=for-the-badge)](#-contact)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:a21caf,100:4c1d95&height=3&section=header" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<!-- ═══════════════ ABOUT ═══════════════ -->
-<a name="about"></a>
-## 👩‍💻 &nbsp;About Me
+## 👩‍💻 About Me
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
 ```yaml
-👤 Name        : Anjali Tiwari
-🎓 Education   : B.Tech CSE @ IILM University (2023–27)
-⭐ CGPA        : 9.3
-💼 Role        : Full-Stack / Web Developer
-🤖 Also into   : AI / ML (CNN, Scikit-learn, OpenCV)
-🧠 Practice    : DSA — LeetCode & GeeksforGeeks
-🗣️ Languages   : English · Hindi · Marathi
-🎯 Aiming for  : Full-time / internship roles
+Name       : Anjali Tiwari
+Education  : B.Tech CSE @ IILM University (2024-27)
+CGPA       : 8.3
+Role       : Full-Stack Web Developer
+Also into  : AI / ML (CNN, Scikit-learn, OpenCV)
+Practice   : LeetCode & GeeksforGeeks
+Languages  : English · Hindi · Marathi
+Aiming for : Full-time / Internship roles
 ```
 
 </td>
 <td width="45%" valign="top">
 
-🔭 **Working on** &nbsp;→&nbsp; AI-powered full-stack apps  
-🌱 **Learning** &nbsp;→&nbsp; GenAI, LLMs & system design  
-🤝 **Collaborate on** &nbsp;→&nbsp; AI & web projects  
-💬 **Ask me about** &nbsp;→&nbsp; React, Flask, Python, ML  
-⚡ **Motto** &nbsp;→&nbsp; *Code. Eat. Sleep. Repeat.*
+- 🔭 **Working on** → AI-powered full-stack apps
+- 🌱 **Learning** → GenAI, LLMs & system design
+- 🤝 **Collaborate on** → AI & web projects
+- 💬 **Ask me about** → React, Flask, Python, ML
+- ⚡ **Motto** → *Code. Eat. Sleep. Repeat.*
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>✨ A few more things about me (click to open)</b></summary>
+<summary>✨ A few more things about me (click to open)</summary>
 <br/>
 
-- 🎧 I code best with music on
-- ☕ Fuelled by chai
-- 🧩 I enjoy breaking big problems into small, solvable pieces
-- 🚀 Always up for a new project or hackathon idea
+- 🎯 I enjoy turning ideas into working products end-to-end
+- 🐘 I've worked on wildlife conservation using computer vision
+- 📚 Currently strengthening DSA & core CS fundamentals
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:a21caf,100:4c1d95&height=3&section=header" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<!-- ═══════════════ EXPERIENCE ═══════════════ -->
-<a name="experience"></a>
-## 💼 &nbsp;Experience
+## 💼 Experience
 
 <div align="center">
-  <img src="./assets/experience-timeline.svg" width="100%" alt="Animated internship timeline 2026"/>
+  <img src="assets/experience-timeline.svg" alt="Internship Journey 2026" width="100%"/>
 </div>
 
 <br/>
 
-<details open>
-<summary><b>🐍 Software Development Intern (Python)</b> · DigiSamaksh Private Limited · <code>Jun 1 – Aug 10, 2026</code></summary>
-<br/>
+### 🟢 Software Development Intern (Python) · DigiSamaksh Private Limited · `Jun 1 – Aug 10, 2026`
 
 - 🎯 Designed and built a **job-portal recommendation engine** in Python using similarity-matching to rank candidates against listings by skills & experience
 - 🧹 Cleaned, preprocessed and analysed candidate/job data with **NumPy & Pandas**, improving match relevance
-- 🔁 Owned features end-to-end in an **Agile** workflow: development, debugging, testing, **Git/GitHub** and code review before delivery
+- 🔄 Owned features end-to-end in an **Agile** workflow: development, debugging, testing, **Git/GitHub** and code review before delivery
 
-</details>
-
-<details open>
-<summary><b>🐘 Research Intern (AI/ML)</b> · Wildlife Institute of India · <code>Mar – Apr 2026</code></summary>
-<br/>
+### 🐘 Research Intern (AI/ML) · Wildlife Institute of India · `Mar – Apr 2026`
 
 - 🧠 Built, trained and tested a **Convolutional Neural Network (CNN)** in Python to identify individual elephants from photographs, enabling counting and photo-based tracking
 - 🖼️ Preprocessed and augmented image datasets using **Python, NumPy & OpenCV** to improve accuracy and generalisation
 
-</details>
-
-<details open>
-<summary><b>🌐 Full Stack Developer Intern</b> · EduSkills Virtual Internship (AICTE) · <code>Jan – Mar 2026</code> · 🏆 <b>Grade O (Outstanding)</b></summary>
-<br/>
+### 🌐 Full Stack Developer Intern · EduSkills Virtual Internship (AICTE) · `Jan – Mar 2026` · 🏆 **Grade O (Outstanding)**
 
 - ✅ Completed a **10-week Full Stack internship** (National Internship Portal, with IILM University)
 - 🎨 Built front-end features using **HTML, CSS, JavaScript & REST API integration**, following SDLC practices
 
-</details>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:a21caf,100:4c1d95&height=3&section=header" width="100%" alt=""/>
-
-<!-- ═══════════════ SKILLS ═══════════════ -->
-<a name="skills"></a>
-## 🛠️ &nbsp;Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="190"><b>⚙️ Languages</b></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,html,css&theme=dark" alt="languages"/></td>
-</tr>
-<tr>
-<td align="center"><b>🎨 Front-End</b></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap&theme=dark" alt="frontend"/></td>
-</tr>
-<tr>
-<td align="center"><b>🧱 Back-End</b></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" alt="backend"/> <img src="https://img.shields.io/badge/REST%20APIs-a855f7?style=for-the-badge&labelColor=1e1b4b" alt="REST"/> <img src="https://img.shields.io/badge/JWT%20Auth-ec4899?style=for-the-badge&labelColor=1e1b4b" alt="JWT"/></td>
-</tr>
-<tr>
-<td align="center"><b>🗄️ Databases</b></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="db"/></td>
-</tr>
-<tr>
-<td align="center"><b>🤖 Data & AI/ML</b></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,opencv&theme=dark" alt="ml"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></td>
-</tr>
-<tr>
-<td align="center"><b>🧪 Testing & Tools</b></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=jest,postman,git,github,vscode,jira,vercel,aws&theme=dark" alt="tools"/></td>
-</tr>
-<tr>
-<td align="center"><b>📚 Core CS</b></td>
-<td align="left">
-  <img src="https://img.shields.io/badge/DSA-8b5cf6?style=flat-square&labelColor=1e1b4b"/>
-  <img src="https://img.shields.io/badge/OOP-a855f7?style=flat-square&labelColor=1e1b4b"/>
-  <img src="https://img.shields.io/badge/OS-c026d3?style=flat-square&labelColor=1e1b4b"/>
-  <img src="https://img.shields.io/badge/DBMS-d946ef?style=flat-square&labelColor=1e1b4b"/>
-  <img src="https://img.shields.io/badge/Computer%20Networks-ec4899?style=flat-square&labelColor=1e1b4b"/>
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:a21caf,100:4c1d95&height=3&section=header" width="100%" alt=""/>
-
-<!-- ═══════════════ PROJECTS ═══════════════ -->
-<a name="projects"></a>
-## 🚀 &nbsp;Featured Projects
-
-| 🚀 Project | 🧰 Stack | 💡 What it does |
-|---|---|---|
-| **AI-Based Student Performance Prediction & Personalised Learning** | `Python` `Scikit-learn` `Streamlit` `Pandas` | Predicts academic performance and recommends learning resources from strengths, weaknesses & study behaviour |
-| **AI-Based Doctor–Patient Appointment System** | `Python` `Flask` `MySQL` `ML` `REST` | Symptom-based doctor recommendation + full-stack appointment scheduling |
-| **Library Management System (AI-Enhanced)** | `C` `File Handling` `Vercel` | File-based library system with borrowing-history recommendations, live on Vercel |
-| **Job Portal Recommendation Engine** | `Python` `NumPy` `Pandas` | Similarity-matching engine ranking candidates against listings |
-
-<div align="center">
-
-<a href="https://github.com/anjalitiwarics27-coder/Ai_based_job_portal">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=anjalitiwarics27-coder&repo=Ai_based_job_portal&theme=radical&hide_border=true&bg_color=0d1117&title_color=e879f9&icon_color=a855f7&text_color=e5e7eb" alt="Ai_based_job_portal"/>
-</a>
-<a href="https://github.com/anjalitiwarics27-coder/ai-hospital-appointment-system-frontend">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=anjalitiwarics27-coder&repo=ai-hospital-appointment-system-frontend&theme=radical&hide_border=true&bg_color=0d1117&title_color=e879f9&icon_color=a855f7&text_color=e5e7eb" alt="ai-hospital-appointment-system-frontend"/>
-</a>
-<a href="https://github.com/anjalitiwarics27-coder/aiml">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=anjalitiwarics27-coder&repo=aiml&theme=radical&hide_border=true&bg_color=0d1117&title_color=e879f9&icon_color=a855f7&text_color=e5e7eb" alt="aiml"/>
-</a>
-<a href="https://github.com/anjalitiwarics27-coder/mini_projects">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=anjalitiwarics27-coder&repo=mini_projects&theme=radical&hide_border=true&bg_color=0d1117&title_color=e879f9&icon_color=a855f7&text_color=e5e7eb" alt="mini_projects"/>
-</a>
-<a href="https://github.com/anjalitiwarics27-coder/cpp_basics_advance">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=anjalitiwarics27-coder&repo=cpp_basics_advance&theme=radical&hide_border=true&bg_color=0d1117&title_color=e879f9&icon_color=a855f7&text_color=e5e7eb" alt="cpp_basics_advance"/>
-</a>
-<a href="https://github.com/anjalitiwarics27-coder/c_programming">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=anjalitiwarics27-coder&repo=c_programming&theme=radical&hide_border=true&bg_color=0d1117&title_color=e879f9&icon_color=a855f7&text_color=e5e7eb" alt="c_programming"/>
-</a>
+| Category | Technologies |
+|:---|:---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,java,html,css&perline=8" /> |
+| **Front-End** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&perline=8" /> |
+| **Back-End** | <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&perline=8" /> ![REST API](https://img.shields.io/badge/REST_API-ec4899?style=flat-square) ![JWT Auth](https://img.shields.io/badge/JWT_AUTH-ec4899?style=flat-square) |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&perline=8" /> |
+| **Data & AI/ML** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,pandas,numpy&perline=8" /> ![Streamlit](https://img.shields.io/badge/STREAMLIT-ff4b4b?style=flat-square&logo=streamlit&logoColor=white) |
+| **Testing & Tools** | <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,linux,aws&perline=8" /> |
+| **Core CS** | ![DSA](https://img.shields.io/badge/DSA-4c1d95?style=flat-square) ![OOP](https://img.shields.io/badge/OOP-4c1d95?style=flat-square) ![OS](https://img.shields.io/badge/OS-4c1d95?style=flat-square) ![DBMS](https://img.shields.io/badge/DBMS-4c1d95?style=flat-square) ![CN](https://img.shields.io/badge/Computer_Networks-4c1d95?style=flat-square) |
 
 <br/>
 
-<a href="https://github.com/anjalitiwarics27-coder?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20All%20Repositories-%E2%86%92-a855f7?style=for-the-badge&labelColor=1e1b4b" alt="all repos"/>
-</a>
+<img src="assets/skills.svg" alt="Skill proficiency" width="80%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:a21caf,100:4c1d95&height=3&section=header" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<!-- ═══════════════ ACHIEVEMENTS & CERTS ═══════════════ -->
-## 🏆 &nbsp;Achievements & Certifications
+## 🚀 Featured Projects <sub>(auto-updated)</sub>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<!--START_SECTION:projects-->
+<!--END_SECTION:projects-->
 
-**⭐ Most Proud Of**
-- 🎓 **CGPA 9.3** — B.Tech CSE, IILM University
-- 🥇 **Grade O (Outstanding)** — EduSkills (AICTE) Full Stack internship
-- 🐘 **CNN for Elephant Identification** — Wildlife Institute of India
-- 💯 **100% Score** — Communication Skills, P2E (YuWaah/UNICEF)
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-</td>
-<td width="50%" valign="top">
+## 🏅 Certifications
 
-**📜 Certifications**
-- 🤖 Generative AI Fundamentals & Applications — *Nasscom FutureSkills Prime* · Jun 2026
-- 🌐 Web Development — *EduSkills* · Mar 2026
-- 🗣️ Communication Skills — *P2E, YuWaah/UNICEF* · Jun 2026
-- ☁️ AWS: Job Roles in the Cloud — *AWS Training* · Feb 2025
-- 🗄️ MySQL Basics — *Great Learning* · Nov 2024
+| 🎓 Certification | 🏢 Issuer | 🗓️ Date | 🏆 Result |
+|:---|:---|:---:|:---:|
+| Full Stack Developer Virtual Internship (10 weeks) | EduSkills · AICTE · IILM University | Jan – Mar 2026 | **Grade O (Outstanding)** |
+| *Add your next certificate here* | | | |
 
-</td>
-</tr>
-</table>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:a21caf,100:4c1d95&height=3&section=header" width="100%" alt=""/>
+## ⚡ Recent Activity <sub>(auto-updated)</sub>
 
-<!-- ═══════════════ STATS ═══════════════ -->
-<a name="stats"></a>
-## 📊 &nbsp;GitHub Analytics
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=anjalitiwarics27-coder&show_icons=true&rank_icon=github&theme=radical&hide_border=true&bg_color=0d1117&count_private=true&title_color=e879f9&icon_color=a855f7&text_color=e5e7eb" alt="stats"/>
-&nbsp;
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalitiwarics27-coder&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e879f9&text_color=e5e7eb" alt="top languages"/>
+<!--START_SECTION:summary-->
+<!--END_SECTION:summary-->
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=anjalitiwarics27-coder&theme=radical&hide_border=true&background=0d1117&ring=ec4899&fire=f472b6&currStreakLabel=e879f9" alt="streak"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anjalitiwarics27-coder&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalitiwarics27-coder&layout=compact&theme=radical&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=anjalitiwarics27-coder&theme=radical&hide_border=true" />
 
 <br/><br/>
 
-<!-- 🐍 snake animation (needs the snake.yml workflow — see setup notes) -->
+<img src="https://leetcard.jacoblin.cool/anjalitiwari31?theme=dark&font=Fira%20Code&ext=heatmap" />
+
+<br/><br/>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anjalitiwarics27-coder/anjalitiwarics27-coder/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anjalitiwarics27-coder/anjalitiwarics27-coder/output/github-snake.svg"/>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/anjalitiwarics27-coder/anjalitiwarics27-coder/output/github-snake-dark.svg" width="96%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anjalitiwarics27-coder/anjalitiwarics27-coder/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anjalitiwarics27-coder/anjalitiwarics27-coder/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/anjalitiwarics27-coder/anjalitiwarics27-coder/output/github-snake.svg" />
 </picture>
 
-<br/><br/>
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:a21caf,100:4c1d95&height=3&section=header" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<!-- ═══════════════ CODING PROFILES ═══════════════ -->
-## 🧩 &nbsp;Coding Profiles
+## 💬 Dev Quote of the Moment
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 📫 Contact
 
 <div align="center">
 
-<a href="https://leetcode.com/u/anjalitiwari23/"><img src="https://img.shields.io/badge/LeetCode-anjalitiwari23-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1e1b4b" alt="LeetCode"/></a>
-<a href="https://www.geeksforgeeks.org/profile/anjalitiwwz3l"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1e1b4b" alt="GeeksforGeeks"/></a>
-
-<br/><br/>
-
-<img src="https://leetcard.jacoblin.cool/anjalitiwari23?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:a21caf,100:4c1d95&height=3&section=header" width="100%" alt=""/>
-
-<!-- ═══════════════ GOALS ═══════════════ -->
-## 🎯 &nbsp;Goals & Roadmap
-
-| Status | Goal |
-|:---:|---|
-| ✅ | Create a professional GitHub profile |
-| ✅ | Complete 3 internships (Full Stack, AI/ML Research, Python) |
-| 🔄 | Build strong AI-powered full-stack projects |
-| 🔄 | Solve 200+ DSA problems |
-| ⏳ | Build & deploy my portfolio website |
-| ⏳ | Land a full-time Full-Stack / SDE role |
-| ⏳ | Make my first open-source contribution |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:a21caf,100:4c1d95&height=3&section=header" width="100%" alt=""/>
-
-<!-- ═══════════════ CONTACT ═══════════════ -->
-<a name="contact"></a>
-## 🌐 &nbsp;Let's Connect
-
-<div align="center">
-
-**Have a project idea, an opportunity, or just want to say hi? I'd love to hear from you!**
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjali.tiwari.cs27@iilm.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_ID)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anjalitiwari31/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/anjalitiwari31)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6a11cb?style=for-the-badge&logo=vercel&logoColor=white)](https://anjali-portfolio-21.vercel.app/)
 
 <br/>
 
-<a href="https://www.linkedin.com/in/anjali-tiwari-988374285"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:anjali.tiwari.cs27@iilm.edu"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://leetcode.com/u/anjalitiwari23/"><img src="https://img.shields.io/badge/LeetCode-Follow-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=false&quoteColor=e879f9" alt="quote"/>
+<img src="assets/footer.svg" alt="Let's build something together" width="100%"/>
 
 <br/>
 
-<sub>Made with 💜 and a lot of chai by <b>Anjali Tiwari</b> &nbsp;·&nbsp; ⭐ Thanks for stopping by!</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:ec4899,45:a21caf,75:3b0764,100:0d1117&section=footer" width="100%" alt="footer"/>
+<!--START_SECTION:updated-->
+<!--END_SECTION:updated-->
 
 </div>
