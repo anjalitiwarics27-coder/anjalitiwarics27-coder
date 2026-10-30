@@ -23,7 +23,7 @@ Do not delete the <!--START_SECTION--> / <!--END_SECTION--> markers.
 ![Profile Views](https://komarev.com/ghpvc/?username=anjalitiwarics27-coder&label=PROFILE%20VIEWS&color=6a11cb&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/anjalitiwarics27-coder?label=FOLLOWERS&style=flat-square&color=2575fc&logo=github)
 ![Stars](https://img.shields.io/github/stars/anjalitiwarics27-coder?label=STARS&style=flat-square&color=f59e0b&logo=github)
-![CGPA](https://img.shields.io/badge/CGPA-8.3-22c55e?style=flat-square)
+![CGPA](https://img.shields.io/badge/CGPA-9.43-22c55e?style=flat-square)
 ![Open To](https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-ec4899?style=flat-square)
 
 <br/>
@@ -49,7 +49,7 @@ Do not delete the <!--START_SECTION--> / <!--END_SECTION--> markers.
 ```yaml
 Name       : Anjali Tiwari
 Education  : B.Tech CSE @ IILM University (2024-27)
-CGPA       : 8.3
+CGPA       : 9.43
 Role       : Full-Stack Web Developer
 Also into  : AI / ML (CNN, Scikit-learn, OpenCV)
 Practice   : LeetCode & GeeksforGeeks
