@@ -160,9 +160,9 @@ Aiming for : Full-time / Internship roles
 - 🔨 Pushed to [anjalitiwarics27-coder/anjalitiwarics27-coder](https://github.com/anjalitiwarics27-coder/anjalitiwarics27-coder) · `30 Oct 2026`
 - 🔨 Pushed to [anjalitiwarics27-coder/anjalitiwarics27-coder](https://github.com/anjalitiwarics27-coder/anjalitiwarics27-coder) · `30 Oct 2026`
 - 🔨 Pushed to [anjalitiwarics27-coder/anjalitiwarics27-coder](https://github.com/anjalitiwarics27-coder/anjalitiwarics27-coder) · `30 Oct 2026`
-- 🔨 Pushed to [Preeti-2327/AI-BASED-STUDENT-PERFORMANCE-PREDICTION-AND-PERSONALIZED-LEARNING-RECOMMENDATION](https://github.com/Preeti-2327/AI-BASED-STUDENT-PERFORMANCE-PREDICTION-AND-PERSONALIZED-LEARNING-RECOMMENDATION) · `30 Oct 2026`
 - 🔨 Pushed to [anjalitiwarics27-coder/anjalitiwarics27-coder](https://github.com/anjalitiwarics27-coder/anjalitiwarics27-coder) · `30 Oct 2026`
-- 🔨 Pushed to [Preeti-2327/AI-BASED-STUDENT-PERFORMANCE-PREDICTION-AND-PERSONALIZED-LEARNING-RECOMMENDATION](https://github.com/Preeti-2327/AI-BASED-STUDENT-PERFORMANCE-PREDICTION-AND-PERSONALIZED-LEARNING-RECOMMENDATION) · `30 Oct 2026`
+- 🔨 Pushed to [anjalitiwarics27-coder/anjalitiwarics27-coder](https://github.com/anjalitiwarics27-coder/anjalitiwarics27-coder) · `30 Oct 2026`
+- 🔨 Pushed to [anjalitiwarics27-coder/anjalitiwarics27-coder](https://github.com/anjalitiwarics27-coder/anjalitiwarics27-coder) · `30 Oct 2026`
 <!--END_SECTION:activity-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -225,7 +225,7 @@ Aiming for : Full-time / Internship roles
 <br/>
 
 <!--START_SECTION:updated-->
-<sub>🤖 Auto-updated on 01 Nov 2026, 02:48 AM IST</sub>
+<sub>🤖 Auto-updated on 01 Nov 2026, 11:07 AM IST</sub>
 <!--END_SECTION:updated-->
 
 </div>
