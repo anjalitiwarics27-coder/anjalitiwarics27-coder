@@ -225,7 +225,7 @@ Aiming for : Full-time / Internship roles
 <br/>
 
 <!--START_SECTION:updated-->
-<sub>🤖 Auto-updated on 01 Nov 2026, 11:07 AM IST</sub>
+<sub>🤖 Auto-updated on 01 Nov 2026, 06:32 PM IST</sub>
 <!--END_SECTION:updated-->
 
 </div>
