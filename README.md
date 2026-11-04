@@ -157,7 +157,7 @@ Aiming for : Full-time / Internship roles
 ## ⚡ Recent Activity <sub>(auto-updated)</sub>
 
 <!--START_SECTION:activity-->
-- 🔨 Pushed to [anjalitiwarics27-coder/anjalitiwarics27-coder](https://github.com/anjalitiwarics27-coder/anjalitiwarics27-coder) · `30 Oct 2026`
+- 🔨 Pushed to [anjalitiwarics27-coder/cpp_basics_advance](https://github.com/anjalitiwarics27-coder/cpp_basics_advance) · `04 Nov 2026`
 - 🔨 Pushed to [anjalitiwarics27-coder/anjalitiwarics27-coder](https://github.com/anjalitiwarics27-coder/anjalitiwarics27-coder) · `30 Oct 2026`
 - 🔨 Pushed to [anjalitiwarics27-coder/anjalitiwarics27-coder](https://github.com/anjalitiwarics27-coder/anjalitiwarics27-coder) · `30 Oct 2026`
 - 🔨 Pushed to [anjalitiwarics27-coder/anjalitiwarics27-coder](https://github.com/anjalitiwarics27-coder/anjalitiwarics27-coder) · `30 Oct 2026`
@@ -225,7 +225,7 @@ Aiming for : Full-time / Internship roles
 <br/>
 
 <!--START_SECTION:updated-->
-<sub>🤖 Auto-updated on 04 Nov 2026, 11:20 AM IST</sub>
+<sub>🤖 Auto-updated on 04 Nov 2026, 07:42 PM IST</sub>
 <!--END_SECTION:updated-->
 
 </div>
