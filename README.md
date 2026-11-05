@@ -104,9 +104,11 @@
 **Back-End**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&perline=8" alt="Back-End" />
-&nbsp;
-![REST API](https://img.shields.io/badge/REST_API-ec4899?style=flat-square)
-![JWT Auth](https://img.shields.io/badge/JWT_AUTH-ec4899?style=flat-square)
+
+<br/>
+
+<img src="https://img.shields.io/badge/REST_API-ec4899?style=flat-square" alt="REST API" />
+<img src="https://img.shields.io/badge/JWT_AUTH-ec4899?style=flat-square" alt="JWT Auth" />
 
 **Databases**
 
@@ -115,8 +117,10 @@
 **Data & AI/ML**
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,pandas,numpy&perline=8" alt="Data and AI/ML" />
-&nbsp;
-![Streamlit](https://img.shields.io/badge/STREAMLIT-ff4b4b?style=flat-square&logo=streamlit&logoColor=white)
+
+<br/>
+
+<img src="https://img.shields.io/badge/STREAMLIT-ff4b4b?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
 
 **Testing & Tools**
 
@@ -124,11 +128,11 @@
 
 **Core CS**
 
-![DSA](https://img.shields.io/badge/DSA-4c1d95?style=flat-square)
-![OOP](https://img.shields.io/badge/OOP-4c1d95?style=flat-square)
-![OS](https://img.shields.io/badge/OS-4c1d95?style=flat-square)
-![DBMS](https://img.shields.io/badge/DBMS-4c1d95?style=flat-square)
-![CN](https://img.shields.io/badge/Computer_Networks-4c1d95?style=flat-square)
+<img src="https://img.shields.io/badge/DSA-4c1d95?style=flat-square" alt="DSA" />
+<img src="https://img.shields.io/badge/OOP-4c1d95?style=flat-square" alt="OOP" />
+<img src="https://img.shields.io/badge/OS-4c1d95?style=flat-square" alt="OS" />
+<img src="https://img.shields.io/badge/DBMS-4c1d95?style=flat-square" alt="DBMS" />
+<img src="https://img.shields.io/badge/Computer_Networks-4c1d95?style=flat-square" alt="Computer Networks" />
 
 <br/>
 
