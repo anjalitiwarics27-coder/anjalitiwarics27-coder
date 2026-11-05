@@ -1,13 +1,3 @@
-<!--
-FINAL README (rename this file to README.md in your profile repo).
-Required files in the repo:
-  assets/banner.svg, assets/divider.svg, assets/skills.svg, assets/footer.svg
-  assets/hero-character.svg, assets/experience-timeline.svg   (already there)
-  .github/workflows/snake.yml, .github/workflows/update-readme.yml
-  scripts/update_readme.py
-Do not delete the <!--START_SECTION--> / <!--END_SECTION--> markers.
--->
-
 <div align="center">
 
 <img src="assets/banner.svg" alt="Anjali Tiwari - Full-Stack Developer | AI/ML Enthusiast" width="100%"/>
@@ -42,23 +32,19 @@ Do not delete the <!--START_SECTION--> / <!--END_SECTION--> markers.
 
 ## 👩‍💻 About Me
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<div align="center">
 
-```yaml
-Name       : Anjali Tiwari
-Education  : B.Tech CSE @ IILM University (2024-27)
-CGPA       : 9.43
-Role       : Full-Stack Web Developer
-Also into  : AI / ML (CNN, Scikit-learn, OpenCV)
-Practice   : LeetCode & GeeksforGeeks
-Languages  : English · Hindi · Marathi
-Aiming for : Full-time / Internship roles
-```
+| | |
+|:---|:---|
+| **Name** | Anjali Tiwari |
+| **Education** | B.Tech CSE @ IILM University (2024-27) · CGPA 9.43 |
+| **Role** | Full-Stack Web Developer |
+| **Also into** | AI / ML (CNN, Scikit-learn, OpenCV) |
+| **Practice** | LeetCode & GeeksforGeeks |
+| **Languages** | English · Hindi · Marathi |
+| **Aiming for** | Full-time / Internship roles |
 
-</td>
-<td width="45%" valign="top">
+</div>
 
 - 🔭 **Working on** → AI-powered full-stack apps
 - 🌱 **Learning** → GenAI, LLMs & system design
@@ -66,13 +52,8 @@ Aiming for : Full-time / Internship roles
 - 💬 **Ask me about** → React, Flask, Python, ML
 - ⚡ **Motto** → *Code. Eat. Sleep. Repeat.*
 
-</td>
-</tr>
-</table>
-
 <details>
 <summary>✨ A few more things about me (click to open)</summary>
-<br/>
 
 - 🎯 I enjoy turning ideas into working products end-to-end
 - 🐘 I've worked on wildlife conservation using computer vision
@@ -112,15 +93,42 @@ Aiming for : Full-time / Internship roles
 
 <div align="center">
 
-| Category | Technologies |
-|:---|:---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,java,html,css&perline=8" /> |
-| **Front-End** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&perline=8" /> |
-| **Back-End** | <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&perline=8" /> ![REST API](https://img.shields.io/badge/REST_API-ec4899?style=flat-square) ![JWT Auth](https://img.shields.io/badge/JWT_AUTH-ec4899?style=flat-square) |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&perline=8" /> |
-| **Data & AI/ML** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,pandas,numpy&perline=8" /> ![Streamlit](https://img.shields.io/badge/STREAMLIT-ff4b4b?style=flat-square&logo=streamlit&logoColor=white) |
-| **Testing & Tools** | <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,linux,aws&perline=8" /> |
-| **Core CS** | ![DSA](https://img.shields.io/badge/DSA-4c1d95?style=flat-square) ![OOP](https://img.shields.io/badge/OOP-4c1d95?style=flat-square) ![OS](https://img.shields.io/badge/OS-4c1d95?style=flat-square) ![DBMS](https://img.shields.io/badge/DBMS-4c1d95?style=flat-square) ![CN](https://img.shields.io/badge/Computer_Networks-4c1d95?style=flat-square) |
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,java,html,css&perline=8" alt="Languages" />
+
+**Front-End**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&perline=8" alt="Front-End" />
+
+**Back-End**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&perline=8" alt="Back-End" />
+&nbsp;
+![REST API](https://img.shields.io/badge/REST_API-ec4899?style=flat-square)
+![JWT Auth](https://img.shields.io/badge/JWT_AUTH-ec4899?style=flat-square)
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&perline=8" alt="Databases" />
+
+**Data & AI/ML**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,pandas,numpy&perline=8" alt="Data and AI/ML" />
+&nbsp;
+![Streamlit](https://img.shields.io/badge/STREAMLIT-ff4b4b?style=flat-square&logo=streamlit&logoColor=white)
+
+**Testing & Tools**
+
+<img src="https://skillicons.dev/icons?i=postman,git,github,vscode,linux,aws&perline=8" alt="Testing and Tools" />
+
+**Core CS**
+
+![DSA](https://img.shields.io/badge/DSA-4c1d95?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-4c1d95?style=flat-square)
+![OS](https://img.shields.io/badge/OS-4c1d95?style=flat-square)
+![DBMS](https://img.shields.io/badge/DBMS-4c1d95?style=flat-square)
+![CN](https://img.shields.io/badge/Computer_Networks-4c1d95?style=flat-square)
 
 <br/>
 
