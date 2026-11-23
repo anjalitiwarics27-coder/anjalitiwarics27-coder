@@ -169,12 +169,12 @@
 ## ⚡ Recent Activity <sub>(auto-updated)</sub>
 
 <!--START_SECTION:activity-->
+- 🔨 Pushed to [anjalitiwarics27-coder/cpp_basics_advance](https://github.com/anjalitiwarics27-coder/cpp_basics_advance) · `23 Nov 2026`
 - 🔨 Pushed to [anjalitiwarics27-coder/cpp_basics_advance](https://github.com/anjalitiwarics27-coder/cpp_basics_advance) · `14 Nov 2026`
 - 🔨 Pushed to [anjalitiwarics27-coder/cpp_basics_advance](https://github.com/anjalitiwarics27-coder/cpp_basics_advance) · `15 Nov 2026`
 - 🔨 Pushed to [anjalitiwarics27-coder/cpp_basics_advance](https://github.com/anjalitiwarics27-coder/cpp_basics_advance) · `14 Nov 2026`
 - 🔨 Pushed to [anjalitiwarics27-coder/cpp_basics_advance](https://github.com/anjalitiwarics27-coder/cpp_basics_advance) · `14 Nov 2026`
 - 🔨 Pushed to [anjalitiwarics27-coder/AI-chatbot](https://github.com/anjalitiwarics27-coder/AI-chatbot) · `13 Nov 2026`
-- 🔨 Pushed to [anjalitiwarics27-coder/anjali_portfolio](https://github.com/anjalitiwarics27-coder/anjali_portfolio) · `13 Nov 2026`
 <!--END_SECTION:activity-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -184,7 +184,7 @@
 <div align="center">
 
 <!--START_SECTION:summary-->
-📦 **30** public repos · ⭐ **56** stars earned · 👥 **11** followers · 🤝 **2** following
+📦 **31** public repos · ⭐ **56** stars earned · 👥 **11** followers · 🤝 **2** following
 <!--END_SECTION:summary-->
 
 <br/><br/>
@@ -237,7 +237,7 @@
 <br/>
 
 <!--START_SECTION:updated-->
-<sub>🤖 Auto-updated on 23 Nov 2026, 12:34 PM IST</sub>
+<sub>🤖 Auto-updated on 24 Nov 2026, 05:12 AM IST</sub>
 <!--END_SECTION:updated-->
 
 </div>
